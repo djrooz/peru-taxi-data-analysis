@@ -2,7 +2,6 @@
 EDA and metric creation for taxi trips in Peru: ride quality, wait time, regional patterns.
 # Peru Taxi Data Analysis
 
-This project was completed as part of the [“Data Exploration and Metric Creation”](https://karpov.courses) course on Karpov.courses.
 
 ## 📌 Project Goal
 
@@ -29,7 +28,6 @@ To analyze taxi trips in Peru from both passenger and driver perspectives. Build
 
 # Анализ поездок на такси в Перу
 
-Проект выполнен в рамках курса [«Исследование данных и создание метрик»](https://karpov.courses).
 
 ## 📌 Цель проекта
 
